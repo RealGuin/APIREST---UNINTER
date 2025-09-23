@@ -5,12 +5,12 @@ A API permite realizar operações de CRUD (Create, Read, Update, Delete) em tar
 
 🛠️ Tecnologias Utilizadas
 
-Java 21
-Spring Boot 3
-Spring Data JPA
-Hibernate
-MySQL
-Postman
+Java 21,
+Spring Boot 3,
+Spring Data JPA,
+Hibernate,
+MySQL,
+Postman.
 
 ⚙️ Funcionalidades
 
